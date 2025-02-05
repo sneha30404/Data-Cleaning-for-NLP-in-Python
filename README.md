@@ -18,3 +18,10 @@ To use this repository, install the required dependencies:
 pip install pandas nltk re numpy
 ```
 
+## Key Takeaways
+- Converting text to lowercase helps standardize data.
+- Regular expressions are useful for removing unwanted characters.
+- Tokenization breaks down text into meaningful units.
+- Stopword removal eliminates common words that do not add meaning.
+- Stemming and Lemmatization reduce words to their base forms.
+- A well-preprocessed dataset improves NLP model performance.
